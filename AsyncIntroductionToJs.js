@@ -8,6 +8,6 @@
 let name = "Amruta";
 console.log(name);
 let father_name = "Nilkanth Kubde";
-console.log("Father_name");
+console.log(father_name);
 let mother_name = "Meena";
 console.log(mother_name);
